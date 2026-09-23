@@ -1,0 +1,14 @@
+REFUNDS: Orders under $100 can be refunded right away. Orders over
+$100 need manager approval before refunding.
+
+SHIPPING: If a package is more than 5 days late, offer a replacement
+or a full refund, and email the customer a tracking update.
+
+ACCOUNT ACCESS: Send the customer a password reset link. Never change
+account details over the phone.
+
+ESCALATION: If the customer is upset or mentions legal action, set
+the priority to High and assign a manager.
+
+UNKNOWN: If an issue doesn't fit any of the categories above, set 
+the priority to High and leave the plan for an employee to decide. 
